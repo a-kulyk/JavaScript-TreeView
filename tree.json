@@ -1,0 +1,38 @@
+[{
+    "text": "First level",
+    "link": "https://www.google.com.ua",
+    "image": "folder.png",
+    "treeClass": "active",
+    "tree": [{
+        "text": "Second level",
+        "link": "https://github.com"
+    }, {
+        "text": "Second level",
+        "link": "http://www.w3schools.com",
+        "image": "warning.png",
+        "treeClass": "active",
+        "tree": [{
+            "text": "Third level",
+            "treeClass": "inactive",
+            "tree": [{
+                "text": "Fourth level",
+                "link": "https://habrahabr.ru",
+                "image": "ok.png"
+            }, {
+                "text": "Fourth level",
+                "link": "http://devdocs.io",
+                "image": "ok.png"
+            }]
+        }]
+    }]
+}, {
+    "text": "First level",
+    "link": "https://www.youtube.com",
+    "image": "ok.png",
+    "treeClass": "active",
+    "tree": [{
+        "text": "Second level",
+        "link": "https://mail.google.com",
+        "image": "pinned.png"
+    }]
+}]

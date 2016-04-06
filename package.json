@@ -1,0 +1,17 @@
+{
+  "name": "tree_view",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": ""
+  },
+  "author": "andrii_kulyk",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "nodemon": "~1.9.1",
+    "express": "~4.13.4"
+  }
+}
