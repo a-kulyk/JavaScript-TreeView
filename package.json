@@ -10,8 +10,6 @@
   "author": "andrii_kulyk",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "body-parser": "^1.13.2",
-    "nodemon": "~1.9.1",
-    "express": "~4.13.4"
+    "nodemon": "~1.9.1"
   }
 }
